@@ -23,6 +23,31 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 29LTUANeoNBold;
+  src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N_Bold.woff2) format('woff2');
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 29LT UA Neo N;
+  src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N.woff2) format('woff2');
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 29LT_UA_Neo_N_Light;
+  src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N_Light.woff2) format('woff2');
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 29LT UA Neo B;
+  src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_B.woff2) format('woff2');
+  font-display: swap;
+  font-style: normal;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -256,20 +281,20 @@ input, select, textarea {
 		margin: 0 0 1rem 0;
 	}
 	
-	.ar_headline_medium {
-		font-family: 'El Messiri', sans-serif;
-		font-weight: 500;
-		line-height: 1.2;
+	.ar_headline_heavy {
+		font-family: '29LTUANeoNBold', serif;
+		font-weight: normal;
+		line-height: 1.1;
 		letter-spacing: 0;
 		text-align:right;
         direction: rtl;
 		
 	}
 	
-	.ar_headline_bold {
-		font-family: 'El Messiri', sans-serif;
-		font-weight: 700;
-		line-height: 1.2;
+	.ar_headline_extra {
+		font-family: '29LT UA Neo B', serif;
+		font-weight: normal;
+		line-height: 1.1;
 		letter-spacing: 0;
 		text-align:right;
         direction: rtl;
