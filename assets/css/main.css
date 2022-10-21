@@ -286,7 +286,7 @@ input, select, textarea {
 	}
 	
 	.ar_headline_heavy {
-		font-family: '29LTUANeoNBold', serif;
+		font-family: '29LTUANeoNBold', 'Cairo', serif;
 		font-weight: normal;
 		line-height: 1.1;
 		letter-spacing: 0;
@@ -296,7 +296,7 @@ input, select, textarea {
 	}
 	
 	.ar_headline_extra {
-		font-family: '29LT UA Neo B', serif;
+		font-family: '29LT UA Neo B', 'Cairo', serif;
 		font-weight: normal;
 		line-height: 1.1;
 		letter-spacing: 0;
