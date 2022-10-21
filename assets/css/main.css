@@ -26,24 +26,28 @@
 @font-face {
   font-family: 29LTUANeoNBold;
   src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N_Bold.woff2) format('woff2');
+  src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N_Bold.ttf) format('ttf');
   font-display: swap;
   font-style: normal;
 }
 @font-face {
   font-family: 29LT UA Neo N;
   src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N.woff2) format('woff2');
+  src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N.ttf) format('ttf');
   font-display: swap;
   font-style: normal;
 }
 @font-face {
   font-family: 29LT_UA_Neo_N_Light;
   src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N_Light.woff2) format('woff2');
+  src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_N_Light.ttf) format('ttf');
   font-display: swap;
   font-style: normal;
 }
 @font-face {
   font-family: 29LT UA Neo B;
   src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_B.woff2) format('woff2');
+  src: url(../../downloads/typography/UA_Neo/29LT_UA_Neo_B.ttf) format('ttf');
   font-display: swap;
   font-style: normal;
 }
